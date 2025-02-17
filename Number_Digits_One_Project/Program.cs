@@ -13,11 +13,8 @@
                 list.Add(number % 10);
                 number = number / 10;
             }
-            //list.Sort();
 
             Console.WriteLine(list.Count());
-            Console.ReadKey();
-
         }
     }
 }
