@@ -18,7 +18,6 @@
             return orginal == reversed;
         }
 
-
         static void Main(string[] args)
         {
             Console.Write("enter a number please: ");
